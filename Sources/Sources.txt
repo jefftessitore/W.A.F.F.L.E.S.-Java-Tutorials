@@ -1,0 +1,3 @@
+Thank you to kwiden and Filip3314 for providing the basis for these tutorials!
+kwiden: https://github.com/kwiden/LetsLearnProgramming
+Filip3314: https://github.com/Filip3314/LetsLearnProgramming
